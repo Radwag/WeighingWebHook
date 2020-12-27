@@ -1,5 +1,6 @@
 # WeighingWebHook
 Simple example of getting weighing records via webhooks
+
 ![Alt text](en_header.png)
 
   
@@ -7,7 +8,8 @@ Simple example of getting weighing records via webhooks
 
 ![Alt text](terminals.png)
 
-     In Menu/Peripherals/Computer/REST server address enter the address of your own REST server supporting the POST method that will await for the weighing records.
+    
+  In Menu/Peripherals/Computer/REST server address enter the address of your own REST server supporting the POST method that will await for the weighing records.
  The weighing records will be sent in JSON format and will contain basic data on mass, date, selected product and operator who carried out the measurement.
   
   {
