@@ -4,7 +4,7 @@ Simple example of getting weighing records via webhooks
 ![Alt text](en_header.png)
 
   
-  Radwag terminals, balances and scales enable export of weighing records not only to a USB flash drive or via external software (E2R, RST Report, etc.) but also using the convenient RestApi.
+  Radwag Linux system based terminals, balances and scales enable export of weighing records not only to a USB flash drive or via external software (E2R, RST Report, etc.) but also using the convenient RestApi.
 
 ![Alt text](terminals.png)
 
